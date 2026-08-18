@@ -1,1 +1,1 @@
-PASTE_YOUR_FINAL_STREAMLIT_URL_HERE
+https://restuarant-agent-2sg5appxttgpebkcfim4n2f.streamlit.app/
