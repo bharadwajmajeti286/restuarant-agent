@@ -1,2 +1,5 @@
 streamlit
-DDGS
+ddgs
+langgraph
+langchain-core
+langchain-groq
